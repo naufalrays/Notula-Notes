@@ -1,16 +1,18 @@
-# notula_notes
+# Notula Notes
 
-A new Flutter project.
+<img src="./Screenshot/logo.png" width=40% height=40%>
 
-## Getting Started
+## Notula Notes
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Notula Notes dibuat berdasarkan keluhan dari beberapa pengguna aplikasi notes yang merasakan bahwa tampilan aplikasi notes yang pernah mereka gunakan terlalu rumit. Dengan itu dibuatlah sebuah apliakasi pencatatan sederhana yang diberi nama Notula Notes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Desain figma dan Power Point Notula Notes:
+
+- [Figma](https://www.figma.com/file/p14C1UmmjloFKUPfiCqmJQ/Notula-Notes-(Copy)?node-id=163%3A137&t=x4oq3qasSv4PMCPY-0)
+- [PowerPoint](https://docs.google.com/presentation/d/1Bzzj_qkWMuJm3hXpHF3ttcEBRpT_Pi_U/edit#slide=id.g18a9da29e7f_0_34)
+
+<img src="./Screenshot/image1.png" width=100% height=40%>
+<img src="./Screenshot/image2.png" width=100% height=40%>
+<img src="./Screenshot/image3.png" width=100% height=40%>
